@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=sarthakydv&count_private=true)
 <!--
 **sarthakydv/sarthakydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
